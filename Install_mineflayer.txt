@@ -1,0 +1,3 @@
+Create new terminal
+Type: npm install mineflayer
+Type: npm init -y
